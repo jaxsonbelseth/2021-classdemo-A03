@@ -11,6 +11,9 @@ namespace FirstSample
             Console.WriteLine("Hello World!");
             Console.WriteLine("My name is: \t Jaxson Belseth");
             Console.WriteLine("I go to: \t NAIT");
+
+            string myName = "Jaxson Belseth";
+            Console.WriteLine($"This is printed from a variable and is:\t{myName}");
         }
     }
 }
