@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputOutputMath", "InputOutputMath\InputOutputMath.csproj", "{5A3C2299-14EB-4E9B-A0B4-524D0F9E17F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InputOutputMath", "InputOutputMath\InputOutputMath.csproj", "{5A3C2299-14EB-4E9B-A0B4-524D0F9E17F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise01_JBelseth", "..\..\2021-jan-1012-exercises-a03-jaxsonbelseth\Exercise01_JBelseth\Exercise01_JBelseth\Exercise01_JBelseth.csproj", "{EA14CD4D-D37B-4DE1-BD1D-D5EA5564C4EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5A3C2299-14EB-4E9B-A0B4-524D0F9E17F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A3C2299-14EB-4E9B-A0B4-524D0F9E17F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A3C2299-14EB-4E9B-A0B4-524D0F9E17F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA14CD4D-D37B-4DE1-BD1D-D5EA5564C4EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA14CD4D-D37B-4DE1-BD1D-D5EA5564C4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA14CD4D-D37B-4DE1-BD1D-D5EA5564C4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA14CD4D-D37B-4DE1-BD1D-D5EA5564C4EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
